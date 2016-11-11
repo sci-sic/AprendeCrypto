@@ -28,12 +28,12 @@ Apoyamos que se aporten capítulos en inglés y en español con el fin de tener 
 ## Referencias:
 
 
-## Credits
+## Creditos
 
 Alfredo Lozano, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
 Juan Manuel Díaz, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
 Rafael Hernandez, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México, Matemáticas, Universidad Nacional Autónoma de México.
 
-## License
+## Licencia
 
-TODO: Write license
+Ver LICENSE.txt
