@@ -8,7 +8,8 @@ El proyecto se compone de varios capitulos en formato Jupyter Notebook, cada uno
 
 ## Requerimientos
 
-Python 3: https://www.python.org/downloads/
+Python 3.## : https://www.python.org/downloads/
+
 Anaconda: https://www.continuum.io/downloads
 
 ## Contribuciones
