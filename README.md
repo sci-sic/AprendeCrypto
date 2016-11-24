@@ -39,6 +39,6 @@ Rafael Hernandez, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de M�
 
 ## Licencia
 
-Ver LICENSE.txt
+Ver [LICENSE](https://github.com/alfredolozano/LearnCrypto/blob/master/LICENSE.txt)
 
 <h3> For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md).
