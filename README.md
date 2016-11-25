@@ -1,35 +1,44 @@
 # LearnCrypto
 
-This is an interactive guide for learning cryptography using Python.
+Una guía interactiva para aprender criptografía usando Python.
 
-## Abstract
+## Abstracto
 
-Project is composed of several chapters in the form of Jupyter Notebook which will each guide you through the insights of cryptographic methods and cryptanalysis.
+El proyecto se compone de varios capitulos en formato Jupyter Notebook, cada uno presenta una guía para introducir paso a paso a los métodos criptográficos y de criptoanálisis.
 
-## Requirements
+## Requerimientos
 
-Python 3: https://www.python.org/downloads/
+Python 3.## : https://www.python.org/downloads/
+
 Anaconda: https://www.continuum.io/downloads
 
+## Contribuciones
 
-## Contributing
+1. Clona!
+2. Crea tu feature branch: `git checkout -b my-new-feature`
+3. Haz commit: `git commit -am 'Add some feature'`
+4. Haz push al branch: `git push origin my-new-feature`
+5. Envía el pull request :D
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+## Historia
 
-## History
+Este es un proyecto inspirado en el curso de Criptografía para la carrera de Matemáticas Aplicadas del Instituto Tecnológico Autónomo de México.
+Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
+Apoyamos que se aporten capítulos en inglés y en español con el fin de tener un recurso completo y amigable para aprender criptografía y técnicas de criptoanálisis.
 
-This is work is inspired in the Cryptography course for the degree of applied mathematics of Instituto Tecnológico Autónomo de México.
-We will often reference bibliography such as:
-Washington. Wade. Trapp......
+## Referencias:
 
-## Credits
 
-TODO: Write credits
+## Creditos
 
-## License
+Alfredo Lozano, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
 
-TODO: Write license# LearnCrypto
+Juan Manuel Díaz, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
+
+Rafael Hernandez, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México, Matemáticas, Universidad Nacional Autónoma de México.
+
+## Licencia
+
+Ver [LICENSE](https://github.com/alfredolozano/LearnCrypto/blob/master/LICENSE.txt)
+
+<h3> For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md).
