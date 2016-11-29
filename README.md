@@ -26,9 +26,6 @@ Este es un proyecto inspirado en el curso de Criptografía para la carrera de Ma
 Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
 Apoyamos que se aporten capítulos en inglés y en español con el fin de tener un recurso completo y amigable para aprender criptografía y técnicas de criptoanálisis.
 
-## Referencias:
-
-
 ## Creditos
 
 Alfredo Lozano, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
