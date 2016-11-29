@@ -34,7 +34,7 @@ Apoyamos que se aporten capítulos en inglés y en español con el fin de tener 
 5. [RSA](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_RSA.ipynb)
 6. [El Gamal](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_ElGamal.ipynb)
 
-*Criptoanálisis-* [Ataques](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_Attacks.ipynb)
+**Criptoanálisis -** [Ataques](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_Attacks.ipynb)
 
 
 ## Crédito
