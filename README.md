@@ -1,17 +1,10 @@
 # AprendeCrypto
 
-Una guía interactiva para aprender criptografía usando Python.
+Una guía interactiva para aprender criptografía con Python.
 
 ## Abstracto
 
 El proyecto se compone de varios capitulos en formato Jupyter Notebook, cada uno presenta una guía para introducir paso a paso a los métodos criptográficos y de criptoanálisis.
-
-## Requerimientos
-
-Python 3.## : https://www.python.org/downloads/
-
-Anaconda: https://www.continuum.io/downloads
-
 
 ## Métodos
 1. [Cifrado por rotación](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_ShiftCypher.ipynb)
@@ -27,8 +20,16 @@ Anaconda: https://www.continuum.io/downloads
 ## Historia
 
 Este es un proyecto inspirado en el curso de Criptografía del Instituto Tecnológico Autónomo de México.
-Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
+Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días y tener una implementación en Python que ayude a entender los temas.
 Apoyamos que se contribuya con métodos en inglés y en español con el fin de tener un recurso muy completo y amigable para aprender conceptos de criptografía y técnicas de criptoanálisis.
+
+**Para descargar : ** en la página del método, dar click en raw > guardar como y listo.
+
+## Requerimientos para contribuir
+
+Python 3.## : https://www.python.org/downloads/
+
+Anaconda: https://www.continuum.io/downloads
 
 ## Contribuciones
 
@@ -45,6 +46,8 @@ Alfredo Lozano, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de Méx
 Juan Manuel Díaz, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
 
 Rafael Hernandez, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México, Matemáticas, Universidad Nacional Autónoma de México.
+
+Daniel Olmedo, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
 
 ## Licencia
 
