@@ -1,4 +1,4 @@
-# LearnCrypto
+# AprendeCrypto
 
 Una guía interactiva para aprender criptografía usando Python.
 
