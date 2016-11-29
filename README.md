@@ -12,19 +12,6 @@ Python 3.## : https://www.python.org/downloads/
 
 Anaconda: https://www.continuum.io/downloads
 
-## Contribuciones
-
-1. Clona!
-2. Crea tu feature branch: `git checkout -b my-new-feature`
-3. Haz commit: `git commit -am 'Add some feature'`
-4. Haz push al branch: `git push origin my-new-feature`
-5. Envía el pull request :D
-
-## Historia
-
-Este es un proyecto inspirado en el curso de Criptografía para la carrera de Matemáticas Aplicadas del Instituto Tecnológico Autónomo de México.
-Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
-Apoyamos que se aporten capítulos en inglés y en español con el fin de tener un recurso completo y amigable para aprender criptografía y técnicas de criptoanálisis.
 
 ## Métodos
 1. [Cifrado por rotación](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_ShiftCypher.ipynb)
@@ -36,6 +23,20 @@ Apoyamos que se aporten capítulos en inglés y en español con el fin de tener 
 
 **Criptoanálisis -** [Ataques](https://github.com/alfredolozano/LearnCrypto/blob/master/ES_Methods/ES_Attacks.ipynb)
 
+
+## Historia
+
+Este es un proyecto inspirado en el curso de Criptografía para la carrera de Matemáticas Aplicadas del Instituto Tecnológico Autónomo de México.
+Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
+Apoyamos que se aporten capítulos en inglés y en español con el fin de tener un recurso completo y amigable para aprender criptografía y técnicas de criptoanálisis.
+
+## Contribuciones
+
+1. Clona!
+2. Crea tu feature branch: `git checkout -b my-new-feature`
+3. Haz commit: `git commit -am 'Add some feature'`
+4. Haz push al branch: `git push origin my-new-feature`
+5. Envía el pull request :D
 
 ## Crédito
 
