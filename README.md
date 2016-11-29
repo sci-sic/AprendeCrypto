@@ -26,9 +26,9 @@ Anaconda: https://www.continuum.io/downloads
 
 ## Historia
 
-Este es un proyecto inspirado en el curso de Criptografía para la carrera de Matemáticas Aplicadas del Instituto Tecnológico Autónomo de México.
+Este es un proyecto inspirado en el curso de Criptografía del Instituto Tecnológico Autónomo de México.
 Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días.
-Apoyamos que se aporten capítulos en inglés y en español con el fin de tener un recurso completo y amigable para aprender criptografía y técnicas de criptoanálisis.
+Apoyamos que se contribuya con métodos en inglés y en español con el fin de tener un recurso muy completo y amigable para aprender conceptos de criptografía y técnicas de criptoanálisis.
 
 ## Contribuciones
 
