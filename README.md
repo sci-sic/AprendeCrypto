@@ -23,7 +23,7 @@ Este es un proyecto inspirado en el curso de Criptografía del Instituto Tecnol�
 Nuestra meta es desarrollar capítulos que puedan ilustrar de una forma muy simple los ingeniosos sistemas criptográficos desde la antigüedad hasta nuestros días y tener una implementación en Python que ayude a entender los temas.
 Apoyamos que se contribuya con métodos en inglés y en español con el fin de tener un recurso muy completo y amigable para aprender conceptos de criptografía y técnicas de criptoanálisis.
 
-**Para descargar : ** en la página del método, dar click en raw > guardar como y listo.
+**Para descargar :** en la página del método, dar click en raw > guardar como y listo.
 
 ## Requerimientos para contribuir
 
