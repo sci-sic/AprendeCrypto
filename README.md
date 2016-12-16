@@ -53,4 +53,5 @@ Daniel Olmedo, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de Méxi
 
 Ver [LICENSE](https://github.com/alfredolozano/LearnCrypto/blob/master/LICENSE.txt)
 
-<h3> For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md).
+<h3> For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md)
+
