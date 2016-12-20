@@ -47,11 +47,9 @@ Juan Manuel Díaz, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de M
 
 Rafael Hernandez, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México, Matemáticas, Universidad Nacional Autónoma de México.
 
-Daniel Olmedo, Matemáticas Aplicadas, Instituto Tecnológico Autónomo de México.
-
 ## Licencia
 
 Ver [LICENSE](https://github.com/alfredolozano/LearnCrypto/blob/master/LICENSE.txt)
 
-<h3> For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md)
+For english see [EN_README](https://github.com/alfredolozano/LearnCrypto/blob/master/EN_README.md)
 
